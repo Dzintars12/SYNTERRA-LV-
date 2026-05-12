@@ -132,7 +132,32 @@ Tā reaģē uz:
 - tehnoloģijām,
 - ekonomiku,
 - un civilizācijas attīstību.
+- 
+Klimats nav:
+statiska sistēma.
 
+Tas attīstās:
+kopā ar pasauli.
+
+Civilizācijas darbības var ietekmēt:
+- temperatūru,
+- ekosistēmas,
+- resursus,
+- lauksaimniecību,
+- migrāciju,
+- un dzīves kvalitāti.
+
+Pasaule reaģē uz:
+- piesārņojumu,
+- tehnoloģijām,
+- enerģijas izmantošanu,
+- un civilizācijas attīstību.
+
+Mērķis nav:
+kontrolēt cilvēkus.
+
+Mērķis ir:
+veidot dzīvu un ilgtermiņā stabilu pasauli.
 ---
 
 ## 9. Dabas ekonomika
