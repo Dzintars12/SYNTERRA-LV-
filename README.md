@@ -1,7 +1,7 @@
-# ◯ SYNTERRA - Life Flow
+# ◯ SYNTERRA - LV
 An open digital civilization protocol.
 One world. Millions of life paths.
-# ◯ SYNTERRA - Life Flow
+# ◯ SYNTERRA - LV
 
 ## Viena pasaule. Miljoniem dzīves ceļu.
 
