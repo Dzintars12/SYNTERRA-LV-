@@ -1,7 +1,7 @@
 # ◯ SYNTERRA
 An open digital civilization protocol.
 One world. Millions of life paths.
-# DZĪVES PLŪSMA
+# DZĪVES PLŪSMA - ◯ SYNTERRA
 
 ## Viena pasaule. Miljoniem dzīves ceļu.
 
