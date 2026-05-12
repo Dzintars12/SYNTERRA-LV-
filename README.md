@@ -95,5 +95,43 @@ Projekts atrodas agrīnā attīstības stadijā.
 - un veidots platformas kodols.
 
 ---
+## STRUKTŪRA
+
+- WHITEPAPER.md — galvenā civilizācijas vīzija
+- ARHITEKTURA.md — sistēmas arhitektūra
+- EKONOMIKA.md — ekonomikas principi
+- TOKENOMIKA.md — digitālās ekonomikas modelis
+- KOMUNIKACIJA.md — komunikācijas principi
+- AI.md — mākslīgā intelekta loma
+- DABA.md — daba, klimats un vide
+- KULTURA.md — kultūra, māksla un ticība
+- IZGLITIBA.md — izglītības sistēma
+- VESELIBA.md — veselības principi
+- JURISDIKCIJA.md — jurisdikcija un noteikumi
+- CIVILIZACIJA.md — civilizācijas attīstības modelis
+- MVP.md — pirmā prototipa plāns
+- ROADMAP.md — attīstības ceļš
+- PROTOTIPS.md — praktiskā realizācija
+
+---
+
+## STATUSS
+
+Projekts atrodas agrīnā izstrādes stadijā.
+
+Pašlaik tiek:
+- definēta filozofija,
+- modelēta ekonomika,
+- veidota arhitektūra,
+- izstrādāts MVP,
+- un definēti civilizācijas pamatprincipi.
+
+---
+
+## MĒRĶIS
+
+Radīt dzīvu digitālu civilizāciju,
+kur cilvēks nav produkts,
+bet daļa no attīstības procesa.
 
 # Lai top.
