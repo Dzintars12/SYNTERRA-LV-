@@ -1,5 +1,6 @@
-# Dzives-Plusma-Core
-Atvērts digitālās civilizācijas protokols. Viena pasaule. Miljoniem dzīves ceļu.
+# ◯ SYNTERRA
+An open digital civilization protocol.
+One world. Millions of life paths.
 # DZĪVES PLŪSMA
 
 ## Viena pasaule. Miljoniem dzīves ceļu.
