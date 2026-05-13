@@ -135,4 +135,9 @@ Radīt dzīvu digitālu civilizāciju,
 kur cilvēks nav produkts,
 bet daļa no attīstības procesa.
 
+Cilvēks rada idejas
+un piepilda savus sapņus.
+
+◯ SYNTERRA
+
 # Lai top.
