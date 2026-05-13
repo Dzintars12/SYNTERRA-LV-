@@ -1,320 +1,362 @@
-# ◯ SYNTERRA IDENTITĀTE
+# ◉ SYNTERRA IDENTITĀTE
 
-## Pamata būtība
+Viena pasaule. Miljoniem dzīves ceļu.
 
-SYNTERRA nav tikai:
-- platforma,
-- aplikācija,
-- spēle,
-- vai tehnoloģisks produkts.
+---
 
-Tā ir:
-dzīvas digitālās civilizācijas identitāte.
+# PAMATA BŪTĪBA
+
+SYNTERRA nav tikai platforma.
+
+Tā ir dzīvas digitālās civilizācijas identitāte.
 
 SYNTERRA apvieno:
 - cilvēku,
 - tehnoloģiju,
 - kultūru,
-- pasauli,
-- un apziņu
-vienotā dzīvas sistēmas telpā.
+- ekonomiku,
+- zināšanas,
+- sadarbību,
+- dabu,
+- un attīstību.
+
+Tā nav sistēma, kas aizvieto cilvēku.
+
+Tā ir vide, kur cilvēks var:
+- radīt,
+- mācīties,
+- sadarboties,
+- attīstīties,
+- un piepildīt savus sapņus.
 
 ---
 
 # GALVENAIS PRINCIPS
 
-SYNTERRA centrā nav:
-algoritms.
+Cilvēks rada idejas un piepilda savus sapņus.
 
-SYNTERRA centrā ir:
-cilvēks.
+AI nav valdnieks.
 
-AI,
-ekonomika,
-organizācijas,
-un tehnoloģijas
-eksistē,
-lai palīdzētu cilvēkam:
-- radīt,
-- attīstīties,
-- sadarboties,
-- un piepildīt savus sapņus.
+AI ir:
+- instruments,
+- palīgs,
+- ceļvedis,
+- un radošuma pastiprinātājs.
+
+Tehnoloģijai jākalpo cilvēkam,
+nevis jāpārvērš cilvēks par produktu.
 
 ---
 
 # SIMBOLS
 
-## ◉
+◉
 
 SYNTERRA simbols sastāv no:
-- punkta,
+- centra,
 - un apļa.
 
-Punkts centrā simbolizē:
+Centrs simbolizē:
 - cilvēku,
 - apziņu,
 - identitāti,
 - izvēli,
-- un individuālo dzīves ceļu.
+- un dzīvo būtību.
 
 Aplis simbolizē:
 - pasauli,
 - civilizāciju,
-- sabiedrību,
-- sistēmu,
-- vienotību,
-- un bezgalīgas iespējas.
+- iespējas,
+- attīstību,
+- sadarbību,
+- zināšanas,
+- kultūru,
+- ekonomiku,
+- dabu,
+- un dzīves plūsmu.
 
-Kopā simbols nozīmē:
+Katrs cilvēks atrodas savas pasaules centrā.
 
-cilvēks dzīvajā pasaulē.
+Un vienlaikus —
+visi cilvēki kopā veido vienotu civilizāciju.
 
 ---
 
 # SIMBOLA FILOZOFIJA
 
-Katrs cilvēks:
-redz pasauli no sava centra.
-
-Katrs dalībnieks ir:
-- unikāls,
-- neatkārtojams,
-- un vienlaikus daļa no lielākas civilizācijas.
-
-SYNTERRA simbols atspoguļo:
-- indivīda un pasaules savienojumu,
-- brīvību un atbildību,
-- tehnoloģiju un dzīvi,
-- kārtību un radošumu,
-- cilvēku un civilizāciju.
+SYNTERRA simbols nav agresīvs simbols.
 
 Tas nav:
-varas simbols.
+- varas simbols,
+- kontroles simbols,
+- reliģisks simbols,
+- vai ideoloģijas simbols.
 
 Tas ir:
-dzīvības un apziņas simbols.
+- līdzsvara,
+- harmonijas,
+- attīstības,
+- un dzīvības simbols.
+
+Tas reprezentē dzīvu procesu.
 
 ---
 
 # NOSAUKUMS
 
-## SYNTERRA
+SYNTERRA
 
 Nosaukums apvieno idejas par:
 - sintēzi,
 - sistēmām,
-- pasauli,
 - civilizāciju,
-- dabu,
 - tehnoloģiju,
-- un harmoniju.
+- dabu,
+- pasauli,
+- un savienojumu.
 
-SYNTERRA nozīmē:
-savienotu pasauli,
-kur cilvēki un sistēmas attīstās kopā.
+Tas simbolizē:
+dzīvu digitālu pasauli,
+kur cilvēki un tehnoloģijas attīstās kopā.
 
 ---
 
 # CILVĒKI
 
-Cilvēki,
-kas piedalās civilizācijas attīstībā,
+Cilvēki, kas piedalās SYNTERRA attīstībā,
 var tikt saukti par:
 
-## Synterrans
+Synterrans.
 
-Synterrans ir:
-- radītāji,
-- pētnieki,
-- būvētāji,
-- skolotāji,
-- mākslinieki,
-- organizatori,
-- un pasaules attīstītāji.
+Synterrans:
+- rada,
+- būvē,
+- sadarbojas,
+- mācās,
+- palīdz,
+- attīsta pasauli,
+- un atstāj pēdas civilizācijā.
 
 ---
 
 # IDENTITĀTES FILOZOFIJA
 
-Identitāte SYNTERRA pasaulē nav:
-tikai profils.
+Identitāte nav tikai profils.
 
 Tā ir:
-- cilvēka klātbūtne,
+- reputācija,
+- darbības,
+- ieguldījums,
+- pieredze,
+- attiecības,
+- un civilizācijas atmiņa.
+
+Pasaule visu atceras.
+
+Taču identitāte nedrīkst kļūt par digitālu cietumu.
+
+Cilvēkam jābūt iespējai:
+- attīstīties,
+- mainīties,
+- mācīties,
+- labot kļūdas,
+- un sākt no jauna.
+
+---
+
+# IDENTITĀTES SLĀŅI
+
+SYNTERRA identitāte sastāv no vairākiem slāņiem.
+
+## 1. Open Identity Layer
+
+Publiska civilizācijas identitāte:
+- profils,
 - reputācija,
 - ieguldījums,
+- organizācijas,
+- sasniegumi,
 - kultūra,
-- un dzīves ceļš civilizācijā.
-
-Identitāte attīstās:
-kopā ar cilvēku.
+- projekti,
+- un radītās vērtības.
 
 ---
 
-# CIVILIZĀCIJAS SAJŪTA
+## 2. Protected Identity Layer
 
-SYNTERRA nav:
-auksta tehnoloģiska sistēma.
+Privātie dati:
+- autentifikācija,
+- drošība,
+- piekļuves līmeņi,
+- juridiskie dati,
+- un sensitīvā informācija.
 
-Tā ir:
-- dzīva pasaule,
-- sadarbības telpa,
-- attīstības vide,
-- kultūras ekosistēma,
-- un digitālās civilizācijas process.
-
-Pasaule nav dekorācija.
-
-Pasaule ir:
-dzīvs organisms.
+Privātums ir svarīga civilizācijas daļa.
 
 ---
 
-# DIZAINA FILOZOFIJA
+## 3. Creative Identity Layer
 
-SYNTERRA dizains balstās uz:
-- minimālismu,
-- skaidrību,
-- mieru,
-- dzīvu estētiku,
-- kosmisku sajūtu,
-- un tehnoloģiju harmoniju ar cilvēku.
+Radošā identitāte:
+- avatari,
+- digitālās personības,
+- māksla,
+- stāsti,
+- simboli,
+- kultūras tēli,
+- un pasaules lomas.
+
+---
+
+# AVATARI
+
+SYNTERRA atbalsta:
+- cilvēku avatarus,
+- organizāciju avatarus,
+- AI avatarus,
+- un digitālās identitātes formas.
+
+Avatars nav tikai bilde.
+
+Tas ir cilvēka klātbūtnes pagarinājums digitālajā pasaulē.
+
+---
+
+# REPUTĀCIJA
+
+Reputācija ir viena no svarīgākajām civilizācijas vērtībām.
+
+Tā balstās uz:
+- darbībām,
+- ieguldījumu,
+- sadarbību,
+- uzticību,
+- zināšanām,
+- palīdzību citiem,
+- un ilgtermiņa uzvedību.
+
+Reputāciju nevar pilnībā nopirkt.
+
+Tā ir jāveido.
+
+---
+
+# IDENTITĀTE UN AI
+
+AI sistēmām SYNTERRA pasaulē:
+- nav cilvēka statusa,
+- nav pilnas varas,
+- un nav tiesību dominēt pār cilvēkiem.
+
+AI eksistē,
+lai palīdzētu civilizācijai attīstīties.
+
+AI identitātei jābūt:
+- caurspīdīgai,
+- kontrolējamai,
+- drošai,
+- un saprotamai.
+
+---
+
+# KULTŪRA
+
+Identitāte nav tikai tehniska sistēma.
+
+Tā ir arī:
+- kultūra,
+- simboli,
+- valoda,
+- estētika,
+- stāsti,
+- mūzika,
+- māksla,
+- un pasaules sajūta.
+
+Civilizācijas dvēsele dzīvo kultūrā.
+
+---
+
+# DIZAINS
+
+SYNTERRA dizaina virziens:
+- minimālisms,
+- skaidrība,
+- dziļums,
+- harmonija,
+- dzīva telpa,
+- un cilvēks centrā.
 
 Interfeiss nedrīkst:
 - manipulēt,
-- radīt haosu,
-- veicināt atkarību,
+- radīt atkarību,
+- degradēt uzmanību,
 - vai pārvērst cilvēku par produktu.
 
 ---
 
 # KRĀSU FILOZOFIJA
 
-Galvenie virzieni:
+Pamata virziens:
 - melns,
+- grafīta tonis,
 - balts,
-- dziļi tumši toņi,
-- zelta vai silti gaismas akcenti,
-- un dabīgi minimālistiski elementi.
+- zelta akcenti,
+- un dabīgi elementi.
 
-Krāsas simbolizē:
-- mieru,
-- dziļumu,
-- telpu,
-- apziņu,
-- un dzīvu pasauli.
-
----
-
-# INTERFEISA SAJŪTA
-
-SYNTERRA interfeisam jāizraisa:
+Vizualitātei jārada:
 - miers,
-- skaidrība,
-- ziņkārība,
-- koncentrēšanās,
-- un sajūta,
-ka cilvēks atrodas dzīvajā pasaulē.
-
-Nevis:
-haotiskā sociālo tīklu troksnī.
-
----
-
-# KULTŪRA
-
-Kultūra ir:
-civilizācijas dvēsele.
-
-SYNTERRA atbalsta:
-- mākslu,
-- mūziku,
-- arhitektūru,
-- simbolus,
-- stāstus,
-- digitālās ciltis,
-- festivālus,
-- zinātnisko fantastiku,
-- un cilvēka iztēli.
-
----
-
-# AI IDENTITĀTE
-
-AI SYNTERRA pasaulē nav:
-valdnieks.
-
-AI ir:
-- gids,
-- palīgs,
-- skolotājs,
-- koordinators,
-- un cilvēka spēju pastiprinātājs.
-
-AI eksistē:
-cilvēka attīstībai.
+- fokuss,
+- dziļums,
+- un civilizācijas sajūta.
 
 ---
 
 # PASAULES SAJŪTA
 
-SYNTERRA pasaule rada sajūtu:
-ka cilvēks:
-- ir daļa no kaut kā lielāka,
-- bet vienlaikus saglabā savu identitāti.
+SYNTERRA nav tikai aplikācija.
 
 Tā ir:
-dzīva civilizācija,
-nevis digitāls cietums.
+- digitāla pasaule,
+- attīstības vide,
+- sadarbības telpa,
+- un dzīvs process.
+
+Cilvēks nav produkts.
+
+Cilvēks ir pasaules līdzradītājs.
 
 ---
 
 # OPEN CREATION / PROTECTED CORE
 
 SYNTERRA atbalsta:
-Open Creation.
+- atvērtu radīšanu,
+- moduļus,
+- SDK,
+- AI aģentus,
+- marketplace,
+- un kopienas inovāciju.
 
-Cilvēki var:
-- radīt,
-- būvēt,
-- programmēt,
-- attīstīt kultūru,
-- un paplašināt pasauli.
-
-Bet civilizācijas kodols tiek:
-aizsargāts.
-
-Brīvība eksistē kopā ar:
-atbildību.
-
----
-
-# CIVILIZĀCIJAS PRINCIPS
-
-Tehnoloģijai jāpalīdz:
-cilvēkam.
-
-Nevis:
-padarīt cilvēku par produktu.
+Taču civilizācijas kodolam:
+- jābūt drošam,
+- stabilam,
+- un aizsargātam.
 
 ---
 
 # GALVENAIS SECINĀJUMS
 
-SYNTERRA identitāte balstās uz:
-- cilvēku pasaules centrā,
-- dzīvu civilizāciju,
-- harmoniju starp tehnoloģiju un dzīvi,
-- un pasauli,
-kur cilvēki var:
-radīt,
-attīstīties,
-un piepildīt savus sapņus.
+SYNTERRA nav tikai tehnoloģiju projekts.
 
----
+Tā ir:
+- dzīva sistēma,
+- digitāla civilizācija,
+- sadarbības telpa,
+- un attīstības vide cilvēcei.
 
-# ◉
+◉
 
-# Viena pasaule. Miljoniem dzīves ceļu.
+Viena pasaule. Miljoniem dzīves ceļu.
 
-# Lai top.
+Lai top.
