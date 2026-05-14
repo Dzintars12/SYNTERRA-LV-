@@ -540,6 +540,7 @@ Tagad latviešu kodols jau satur:
 * vai nākotnes metacivilizācijas operētājsistēmas dokumentācijai.
 
 Nākamais lielais posms tiešām var būt:
+Lai top!
 
 * EN globālais slānis,
 * vizuālā identitāte,
