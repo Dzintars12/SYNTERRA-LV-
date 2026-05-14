@@ -1,93 +1,105 @@
-# ◯ SYNTERRA — FOUNDATIONS
+# ○ SYNTERRA — PAMATI
 
-## Identity
-SYNTERRA is an open digital civilization concept.
+## Identitāte
 
-It is not just a game.
-It is a living world built by people.
+SYNTERRA ir atvērts digitālās civilizācijas koncepts.
 
----
+Tā nav tikai spēle.
 
-## Core Vision
-One world. Millions of paths.
+Tā ir dzīva pasaule, ko veido cilvēki.
 
 ---
 
-## Main Principles
-- Freedom
-- Responsibility
-- Reputation
-- Knowledge
-- Communication
-- Economy
-- Nature
-- Culture
-- Evolution
-- X Factor
+## Galvenā vīzija
+
+Viena pasaule. Miljoniem ceļu.
 
 ---
 
-## Civilization Structure
+## Galvenie principi
 
-### Layer 1 — Open Civilization
-Accessible to everyone.
-
-Focus:
-- learning
-- culture
-- communication
-- creativity
-- exploration
-- cooperation
-- AI assistance
-- world building
+- Brīvība
+- Atbildība
+- Reputācija
+- Zināšanas
+- Komunikācija
+- Ekonomika
+- Daba
+- Kultūra
+- Attīstība
+- X Faktors
 
 ---
 
-### Layer 2 — Economic & Governance Layer
-Restricted systems.
+## Civilizācijas struktūra
 
-Focus:
-- economy
-- ownership
-- governance
-- token systems
-- business
-- adult environments
-- responsibility
+### 1. Slānis — Atvērtā civilizācija
+
+Pieejama visiem.
+
+Fokuss:
+
+- mācīšanās
+- kultūra
+- komunikācija
+- radošums
+- izpēte
+- sadarbība
+- AI asistence
+- pasaules veidošana
+
+---
+
+### 2. Slānis — Ekonomikas un pārvaldības slānis
+
+Ierobežotas sistēmas.
+
+Fokuss:
+
+- ekonomika
+- īpašumtiesības
+- pārvaldība
+- tokenu sistēmas
+- bizness
+- pieaugušo vide
+- atbildība
 
 ---
 
 ## AI
-AI exists as assistant, guide and infrastructure.
 
-Not as ruler.
+AI eksistē kā:
 
----
+- asistents,
+- gids,
+- un infrastruktūra.
 
-## Nature
-Civilization must coexist with nature.
+Civilizācijai jāpastāv kopā ar dabu.
 
-Technology without balance destroys itself.
-
----
-
-## Identity of People
-People of SYNTERRA:
-Synterrans.
+Tehnoloģija bez līdzsvara iznīcina pati sevi.
 
 ---
 
-## Design Philosophy
-Minimalism.
-Living systems.
-Human-centered evolution.
+## Cilvēku identitāte
+
+SYNTERRA cilvēki: Syntterieši.
 
 ---
 
-## Status
-Early conceptual development stage.
+## Dizaina filozofija
+
+Minimālisms.
+
+Dzīvas sistēmas.
+
+Uz cilvēku centrēta attīstība.
 
 ---
 
-◯ SYNTERRA
+## Statuss
+
+Agrīna konceptuālās attīstības stadija.
+
+---
+
+Lai top!
