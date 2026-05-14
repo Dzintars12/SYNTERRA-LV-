@@ -1,4 +1,4 @@
-# ◯ SYNTERRA WORLD
+# ◯ SYNTERRA PASAULE
 
 ## Pamata būtība
 
