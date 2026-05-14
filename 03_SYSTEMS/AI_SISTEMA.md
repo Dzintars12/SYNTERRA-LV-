@@ -1,4 +1,4 @@
-`# ◯ SYNTERRA AI AGENTS
+`# ◯ SYNTERRA AI SISTEMA
 
 ## Pamata būtība
 
