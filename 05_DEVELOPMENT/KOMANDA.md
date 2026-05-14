@@ -1,4 +1,4 @@
-# DZĪVES PLŪSMAS KOMANDA
+# SYNTERRA KOMANDA
 
 ## Pamata būtība
 
