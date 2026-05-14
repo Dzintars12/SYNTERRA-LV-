@@ -1,4 +1,4 @@
-# ◯ SYNTERRA ORGANIZATIONS
+# ◯ SYNTERRA ORGANIZACIJAS
 
 ## Pamata būtība
 
