@@ -6,7 +6,7 @@
 
 # PĀRSKATS
 
-Civilization Interaction Model definē, kā cilvēki, AI sistēmas, kopienas, idejas un struktūras mijiedarbojas SYNTERRA vidē.
+Civilization Interaction Model definē cilvēku, AI sistēmu, kopienu, ideju un struktūru mijiedarbību SYNTERRA vidē.
 
 Šis dokuments definē:
 
@@ -17,9 +17,7 @@ Civilization Interaction Model definē, kā cilvēki, AI sistēmas, kopienas, id
 - rekursīvās radīšanas mehāniku,
 - un ilgtermiņa civilizācijas attīstību.
 
-SYNTERRA nav veidota kā statiska platforma.
-
-Tā tiek veidota kā dzīva digitālās civilizācijas vide.
+SYNTERRA tiek veidota kā dzīva digitālās civilizācijas vide.
 
 ---
 
@@ -43,47 +41,46 @@ Choose Navigation Domain
 Enter Domain World
 ↓
 Explore Blocks
-↓
-Join Community
-↓
-Learn / Create / Build
 ```
-
-Mijiedarbības plūsmai jāpaliek:
-
-- intuitīvai,
-- vizuālai,
-- mērogojamai,
-- un saprotamai pat bērnam.
 
 ---
 
-# 02. CIVILIZATION MAP INTERACTION
+# 02. THREE CLICK NAVIGATION PRINCIPLE
+
+Cilvēkam līdz sev vajadzīgajai pasaulei, Block vai sistēmai jānokļūst maksimums trīs klikšķos.
+
+Piemērs:
+
+```text
+1. Enter SYNTERRA
+↓
+2. Choose FINANCE
+↓
+3. Enter X BLOCK
+```
+
+Šī principa mērķis ir:
+
+- intuitīva izpēte,
+- ātra orientācija,
+- mērogojama vienkāršība,
+- un minimāla navigācijas berze.
+
+Pat ja ekosistēma kļūst bezgalīgi liela, navigācijai jāsaglabājas vienkāršai.
+
+---
+
+# 03. CIVILIZATION MAP INTERACTION
 
 Civilization Map darbojas kā galvenais SYNTERRA navigācijas organisms.
 
-Cilvēki izmanto karti, lai:
+Karte attīstās kopā ar civilizāciju.
 
-- orientētos,
-- atklātu jaunus virzienus,
-- ieietu kopienās,
-- pētītu radītāju ekosistēmas,
-- un piekļūtu attīstošām struktūrām.
-
-Karte nepārtraukti attīstās kopā ar civilizāciju.
-
-Karte nav statiska.
-
-Tā pielāgojas, kad:
-
-- rodas jaunas idejas,
-- parādās jauni Blocks,
-- veidojas jaunas kopienas,
-- un attīstās jauni Navigation Domains.
+Nepārtraukti var parādīties jauni Domains, Blocks un kopienas.
 
 ---
 
-# 03. NAVIGATION DOMAIN WORLDS
+# 04. NAVIGATION DOMAIN WORLDS
 
 Katrs Navigation Domain darbojas kā dzīva pasaule.
 
@@ -95,116 +92,56 @@ FINANCE
 ├── Search
 ├── Filters
 ├── Recommended by AI
-├── Popular Blocks
-├── New Blocks
 ├── ZERO BLOCK
 │
 ├── Trading
 ├── Investing
 ├── Automation
-├── AI Analysis
-├── Communities
-└── Projects
+└── Communities
 ```
 
-Cilvēki, ieejot konkrētā virzienā, var:
+Cilvēki konkrētajā virzienā var:
 
 - mācīties,
-- komunicēt,
 - sadarboties,
-- veidot projektus,
-- izmantot AI sistēmas,
-- automatizēt procesus,
-- vai piedalīties kopienās.
-
-Katrs virziens var attīstīties neatkarīgi, vienlaikus paliekot savienots ar SYNTERRA Core.
+- radīt,
+- automatizēt,
+- un piedalīties kopienās.
 
 ---
 
-# 04. ADAPTIVE SEARCH AND DISCOVERY
+# 05. ADAPTIVE SEARCH AND DISCOVERY
 
-Navigation Domains augot, sistēmai jāsaglabā skaidrība.
-
-Cilvēkam nevajadzētu manuāli pārlūkot tūkstošiem struktūru.
-
-Tāpēc lielie virzieni satur:
+Lieli Navigation Domains satur:
 
 - meklēšanas sistēmas,
 - filtrus,
 - AI rekomendācijas,
 - populārākās struktūras,
-- jaunākās struktūras,
 - un personalizētu atklāšanu.
 
-AI var palīdzēt lietotājiem:
-
-- atrast atbilstošus Blocks,
-- atklāt piemērotas kopienas,
-- atrast radītāju ekosistēmas,
-- un orientēties sarežģītās struktūrās.
-
-Mērķis nav vienlaikus parādīt visas iespējamās struktūras.
+Mērķis nav vienlaikus parādīt visu.
 
 Mērķis ir parādīt cilvēkam atbilstošāko ceļu.
 
-Piemērs:
-
-```text
-Search: Trading Automation
-↓
-AI analyzes intent
-↓
-Recommended:
-- X Block
-- Automation Systems
-- AI Analysis
-```
-
-Tas ļauj sistēmai mērogoties bezgalīgi, vienlaikus saglabājot intuitīvu navigāciju.
-
 ---
 
-# 05. ZERO BLOCK INTERACTION
+# 06. ZERO BLOCK INTERACTION
 
 Zero Block darbojas kā pastāvīgi vārti jaunām idejām.
 
-Cilvēks ar jaunu ideju var:
+Idejas vēlāk var attīstīties par:
 
-- ieiet Zero Block,
-- aprakstīt konceptu,
-- izveidot prototipu,
-- piesaistīt līdzradītājus,
-- un sākt strukturētu attīstību.
-
-Piemērs:
-
-```text
-New Idea
-↓
-Zero Block
-↓
-AI Structural Analysis
-↓
-Community Formation
-↓
-Structured Development
-↓
-Independent Block
-```
-
-Ja AI nosaka, ka ideja atbilst esošam Navigation Domain:
-
-- struktūra var tikt integrēta konkrētajā virzienā.
-
-Ja ideja pārstāv pilnīgi jaunu virzienu:
-
-- var rasties jauns Navigation Domain.
+- Blocks,
+- Sub-blocks,
+- Communities,
+- vai jauniem Navigation Domains.
 
 Pats Zero Block vienmēr paliek atvērts.
 
 ---
 
-# 06. AI STRUCTURAL ASSISTANCE
+# 07. AI STRUCTURAL ASSISTANCE
 
 AI nekontrolē SYNTERRA.
 
@@ -212,129 +149,56 @@ Cilvēks nosaka virzienu.
 
 AI palīdz strukturēt.
 
-Cilvēks paliek galvenais radītājs un lēmumu pieņēmējs.
-
 AI var palīdzēt:
 
 - navigācijā,
 - organizēšanā,
 - strukturālajā analīzē,
-- tulkošanā,
 - moderēšanā,
-- zināšanu atklāšanā,
-- kopienu savienošanā,
 - un ekosistēmas skaidrībā.
-
-AI palīdz novērst haosu, vienlaikus saglabājot atvērtu radīšanu.
 
 ---
 
-# 07. COMMUNITY MECHANICS
+# 08. COMMUNITY MECHANICS
 
 Kopienas dabiski veidojas ap:
 
 - interesēm,
 - projektiem,
 - idejām,
-- radītāju ekosistēmām,
-- un sadarbības mērķiem.
-
-Kopienas var:
-
-- apmainīties ar zināšanām,
-- veidot sistēmas,
-- mācīt,
-- mentorēt,
-- sadarboties,
-- un radīt jaunas idejas.
+- un radītāju ekosistēmām.
 
 Kopienas ir integrētas Navigation Domains un Blocks struktūrās.
 
-Tās nav izolētas sociālās struktūras.
-
 ---
 
-# 08. RECURSIVE CREATION MECHANICS
+# 09. RECURSIVE CREATION MECHANICS
 
 Radīšana SYNTERRA sistēmā ir rekursīva.
 
-Katra struktūra var radīt jaunas struktūras.
-
 Katra ideja var kļūt par nākamo ideju sākumpunktu.
-
-Piemērs:
-
-```text
-Idea
-↓
-Community
-↓
-Project
-↓
-Block
-↓
-New Ideas
-↓
-New Structures
-```
-
-Tas ļauj civilizācijai nepārtraukti attīstīties bez strukturāla sabrukuma.
 
 ---
 
-# 09. EVOLUTION MECHANICS
+# 10. EVOLUTION MECHANICS
 
 SYNTERRA nepārtraukti attīstās.
 
-Ekosistēmai augot:
-
-- var parādīties jauni Blocks,
-- kopienas var paplašināties,
-- struktūras var reorganizēties,
-- un var rasties jauni Navigation Domains.
-
 Arhitektūrai jāspēj atbalstīt nezināmas nākotnes struktūras.
-
-Sistēma attīstās, vienlaikus saglabājot:
-
-- orientāciju,
-- strukturālo skaidrību,
-- un Core stabilitāti.
 
 ---
 
-# 10. ADAPTIVE NAVIGATION
+# 11. ADAPTIVE NAVIGATION
 
 Navigācijas sistēma pielāgojas dažādiem lietotājiem.
 
-Piemērs:
-
-- jauns lietotājs redz vienkāršotu navigāciju,
-- pieredzējis radītājs redz dziļākas struktūras,
-- kopienas piekļūst savām ekosistēmām,
-- un izstrādātāji var piekļūt tehniskajiem slāņiem.
-
-Sistēma pielāgojas, nezaudējot skaidrību.
+Katrs lietotājs redz sev atbilstošo sarežģītības līmeni.
 
 ---
 
-# 11. LONG-TERM CIVILIZATION GROWTH
+# 12. LONG-TERM CIVILIZATION GROWTH
 
 SYNTERRA tiek veidota ilgtermiņa civilizācijas mēroga attīstībai.
-
-Ekosistēmai nepārtraukti jāatbalsta:
-
-- jaunas idejas,
-- jaunas struktūras,
-- jaunas radītāju ekosistēmas,
-- un nezināmus nākotnes virzienus.
-
-Arhitektūra tiek veidota tā, lai saglabātos:
-
-- mērogojama,
-- pielāgojama,
-- modulāra,
-- un strukturāli vienota.
 
 Civilizācija attīstās kopā ar cilvēkiem.
 
