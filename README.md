@@ -4,7 +4,7 @@
 
 ### Dzīvās Digitālās Civilizācijas Arhitektūra
 
-<img src="https://raw.githubusercontent.com/Dzintars12/SYNTERRA-LV-/main/assets/SYNTERRA.png" width="700"/>
+<img src="https://raw.githubusercontent.com/Dzintars12/SYNTERRA-EN/main/assets/SYNTERRA.png" width="700"/>
 
 ## Ieej jaunās pasaulēs.
 ## Radi to, kas vēl neeksistē.
