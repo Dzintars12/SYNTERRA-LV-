@@ -32,6 +32,12 @@ SYNTERRA
 └── Kopējā Infrastruktūra
 ```
 
+Katra struktūra var radīt jaunas struktūras.
+
+Katra ideja var kļūt par nākamo ideju sākumpunktu.
+
+Radīšana SYNTERRA sistēmā ir rekursīva.
+
 ---
 
 ## Zero Bloka Princips
