@@ -92,13 +92,19 @@ Piemērs:
 ```text
 FINANCE
 │
+├── Search
+├── Filters
+├── Recommended by AI
+├── Popular Blocks
+├── New Blocks
+├── ZERO BLOCK
+│
 ├── Trading
 ├── Investing
 ├── Automation
 ├── AI Analysis
 ├── Communities
-├── Projects
-└── ZERO BLOCK
+└── Projects
 ```
 
 Cilvēki, ieejot konkrētā virzienā, var:
@@ -115,7 +121,50 @@ Katrs virziens var attīstīties neatkarīgi, vienlaikus paliekot savienots ar S
 
 ---
 
-# 04. ZERO BLOCK INTERACTION
+# 04. ADAPTIVE SEARCH AND DISCOVERY
+
+Navigation Domains augot, sistēmai jāsaglabā skaidrība.
+
+Cilvēkam nevajadzētu manuāli pārlūkot tūkstošiem struktūru.
+
+Tāpēc lielie virzieni satur:
+
+- meklēšanas sistēmas,
+- filtrus,
+- AI rekomendācijas,
+- populārākās struktūras,
+- jaunākās struktūras,
+- un personalizētu atklāšanu.
+
+AI var palīdzēt lietotājiem:
+
+- atrast atbilstošus Blocks,
+- atklāt piemērotas kopienas,
+- atrast radītāju ekosistēmas,
+- un orientēties sarežģītās struktūrās.
+
+Mērķis nav vienlaikus parādīt visas iespējamās struktūras.
+
+Mērķis ir parādīt cilvēkam atbilstošāko ceļu.
+
+Piemērs:
+
+```text
+Search: Trading Automation
+↓
+AI analyzes intent
+↓
+Recommended:
+- X Block
+- Automation Systems
+- AI Analysis
+```
+
+Tas ļauj sistēmai mērogoties bezgalīgi, vienlaikus saglabājot intuitīvu navigāciju.
+
+---
+
+# 05. ZERO BLOCK INTERACTION
 
 Zero Block darbojas kā pastāvīgi vārti jaunām idejām.
 
@@ -155,7 +204,7 @@ Pats Zero Block vienmēr paliek atvērts.
 
 ---
 
-# 05. AI STRUCTURAL ASSISTANCE
+# 06. AI STRUCTURAL ASSISTANCE
 
 AI nekontrolē SYNTERRA.
 
@@ -180,7 +229,7 @@ AI palīdz novērst haosu, vienlaikus saglabājot atvērtu radīšanu.
 
 ---
 
-# 06. COMMUNITY MECHANICS
+# 07. COMMUNITY MECHANICS
 
 Kopienas dabiski veidojas ap:
 
@@ -205,7 +254,7 @@ Tās nav izolētas sociālās struktūras.
 
 ---
 
-# 07. RECURSIVE CREATION MECHANICS
+# 08. RECURSIVE CREATION MECHANICS
 
 Radīšana SYNTERRA sistēmā ir rekursīva.
 
@@ -233,7 +282,7 @@ Tas ļauj civilizācijai nepārtraukti attīstīties bez strukturāla sabrukuma.
 
 ---
 
-# 08. EVOLUTION MECHANICS
+# 09. EVOLUTION MECHANICS
 
 SYNTERRA nepārtraukti attīstās.
 
@@ -254,7 +303,7 @@ Sistēma attīstās, vienlaikus saglabājot:
 
 ---
 
-# 09. ADAPTIVE NAVIGATION
+# 10. ADAPTIVE NAVIGATION
 
 Navigācijas sistēma pielāgojas dažādiem lietotājiem.
 
@@ -269,7 +318,7 @@ Sistēma pielāgojas, nezaudējot skaidrību.
 
 ---
 
-# 10. LONG-TERM CIVILIZATION GROWTH
+# 11. LONG-TERM CIVILIZATION GROWTH
 
 SYNTERRA tiek veidota ilgtermiņa civilizācijas mēroga attīstībai.
 
