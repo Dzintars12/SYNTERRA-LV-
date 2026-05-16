@@ -1,401 +1,208 @@
-# ◉SYNTERRA WHITEPAPER
+<div align="center">
 
-## Dzīvās Digitālās Civilizācijas Arhitektūra
+# ◉SYNTERRA
 
----
+### Dzīvās Digitālās Civilizācijas Arhitektūra
 
-## IEVADS
+<img src="./assets/SYNTERRA.png" width="700"/>
 
-◉SYNTERRA nav tikai:
+## Ieej jaunās pasaulēs.
+## Radi to, kas vēl neeksistē.
+## Attīsties kopā ar civilizāciju.
 
-- spēle,
-- sociālais tīkls,
-- AI platforma,
-- ekonomikas sistēma,
-- vai virtuāla pasaule.
+◉SYNTERRA nav tikai platforma.
+Tā ir dzīva digitālā vide cilvēkiem, idejām, kopienām un nākotnes pasauļu radīšanai.
 
-◉SYNTERRA ir mēģinājums radīt:
-
-- dzīvu digitālu civilizāciju,
-- cilvēku un AI sadarbības vidi,
-- modulāru pasauli,
-- ilgtermiņa attīstības sistēmu,
-- un jaunu digitālās sabiedrības modeli.
+</div>
 
 ---
 
-# PASAULE MAINĀS
+# ◉ KAS IR SYNTERRA
 
-Mēs dzīvojam laikā, kur:
+Mūsdienu digitālā pasaule kļūst arvien skaļāka.
 
-- AI kļūst par infrastruktūru,
-- digitālā vide kļūst par otro realitāti,
-- ekonomika kļūst globāla,
-- un komunikācija kļūst par civilizācijas nervu sistēmu.
-
-Tomēr daudzas modernās sistēmas balstās uz:
-
-- uzmanības manipulāciju,
-- toksiskumu,
-- algoritmisku konfliktu,
-- datu ekspluatāciju,
-- un cilvēka pārvēršanu par produktu.
+Informācija plūst bez apstājas.
+Sociālie tīkli cīnās par uzmanību.
+Algoritmi manipulē ar emocijām.
+Un cilvēks pamazām pazūd troksnī.
 
 ◉SYNTERRA cenšas radīt citu virzienu.
 
----
+Nevis vēl vienu sociālo tīklu.
+Nevis vēl vienu spēli.
+Nevis vēl vienu AI platformu.
 
-# PAMATA FILOZOFIJA
+Bet dzīvu digitālās civilizācijas vidi.
 
-◉SYNTERRA kodols balstās uz:
-
-- cilvēku,
-- reputāciju,
-- sadarbību,
-- kultūru,
-- AI palīdzību,
-- zināšanām,
-- un dzīvu pasauli.
-
-Tehnoloģijas nav galvenais mērķis.
-
-Galvenais mērķis ir:
-
-- dzīvība,
-- attīstība,
-- līdzsvars,
-- un civilizācija.
+Vietu, kur:
+- cilvēki,
+- AI,
+- zināšanas,
+- kultūra,
+- ekonomika,
+- kopienas,
+- un radīšana
+attīstās kopā.
 
 ---
 
-# CIVILIZĀCIJAS PRINCIPI
+# ◉ CIVILIZĀCIJAS KARTE
 
-## 1. Cilvēks centrā
+```text
+SYNTERRA
+│
+├── FINANSES
+├── AI
+├── MĀKSLA
+├── BIZNESS
+├── IZGLĪTĪBA
+├── KULTŪRA
+├── VESELĪBA
+└── ZERO BLOCK
+```
 
-AI neaizvieto cilvēku.
+Katrs virziens kļūst par:
+- pasauli,
+- kopienu,
+- un attīstības vidi.
+
+Jo dziļāk cilvēks ieiet,
+jo vairāk pasaule atveras.
+
+---
+
+# ◉ ZERO BLOCK
+
+ZERO BLOCK ir vieta,
+kur sākas jaunas idejas.
+
+Ja cilvēkam rodas:
+- jauns virziens,
+- jauns projekts,
+- jauna sistēma,
+- vai jauna pasaule —
+
+viņš to var sākt attīstīt ZERO BLOCK vidē.
+
+ZERO BLOCK vienmēr paliek atvērts radīšanai.
+
+---
+
+# ◉ NAVIGĀCIJAS PRINCIPI
+
+## Trīs Klikšķu Navigācijas Princips
+
+Cilvēkam sev vajadzīgā pasaule jāatrod maksimums trīs klikšķos.
+
+```text
+1. Ieeja SYNTERRA
+↓
+2. Izvēlies FINANSES
+↓
+3. Atver X BLOCK
+```
+
+---
+
+## Pakāpeniska Informācijas Atvēršana
+
+Sākumā cilvēks redz:
+- tikai galvenos virzienus.
+
+Tad:
+- īsu paskaidrojumu.
+
+Un tikai dziļāk:
+- pilnu informāciju,
+- sistēmas,
+- kopienas,
+- un dokumentāciju.
+
+---
+
+# ◉ AI LOMA
+
+AI nekontrolē SYNTERRA.
+
+Cilvēks nosaka virzienu.
+AI palīdz strukturēt.
 
 AI palīdz:
-
+- orientēties,
 - analizēt,
 - organizēt,
-- mācīt,
 - tulkot,
-- moderēt,
-- un attīstīt pasauli.
-
-Cilvēks paliek civilizācijas centrs.
+- savienot kopienas,
+- un uzturēt strukturālu skaidrību.
 
 ---
 
-## 2. Dzīvā pasaule
+# ◉ FRAKTĀLĀ ARHITEKTŪRA
 
-Pasaule nav statiska sistēma.
+Katra ideja var radīt nākamo ideju.
 
-Tā:
+Katra pasaule var radīt nākamo pasauli.
 
-- attīstās,
-- mainās,
-- reaģē,
-- atceras,
-- un evolucionē kopā ar civilizāciju.
+```text
+Ideja
+↓
+Kopiena
+↓
+Projekts
+↓
+Block
+↓
+Jaunas Idejas
+↓
+Jaunas Pasaules
+```
 
----
-
-## 3. Reputācijas civilizācija
-
-Ilgtermiņa reputācija kļūst svarīgāka par:
-
-- manipulāciju,
-- mākslīgu popularitāti,
-- troksni,
-- un īslaicīgu uzmanību.
-
-Reputācija balstās uz:
-
-- rīcību,
-- sadarbību,
-- ieguldījumu,
-- uzticību,
-- un attīstību.
+Civilizācija attīstās organiski.
 
 ---
 
-## 4. Open Creation / Protected Core
+# ◉ GATEWAY
 
-◉SYNTERRA atbalsta:
+Pirmā ieeja SYNTERRA pasaulē:
 
-- open-source attīstību,
-- kopienas,
-- eksperimentus,
-- moduļus,
-- un radošumu.
-
-Taču civilizācijas kodols tiek aizsargāts pret:
-
-- ekspluatāciju,
-- manipulāciju,
-- sistēmas destabilizāciju,
-- infrastruktūras sabrukumu,
-- un toksiskām sistēmām.
+https://dzintars12.github.io/SYNTERRA-LV-/game/
 
 ---
 
-# KOMUNIKĀCIJA
+# ◉ REPOZITORIJA STRUKTŪRA
 
-Komunikācija ir civilizācijas nervu sistēma.
-
-◉SYNTERRA komunikācijas mērķis nav:
-
-- radīt atkarību,
-- ekspluatēt uzmanību,
-- vai veicināt konfliktu.
-
-Mērķis ir:
-
-- veselīga komunikācija,
-- sadarbība,
-- zināšanu apmaiņa,
-- un kopienu attīstība.
+```text
+SYNTERRA-LV/
+│
+├── README.md
+├── assets/
+├── docs/
+├── game/
+├── systems/
+├── worlds/
+└── infrastructure/
+```
 
 ---
 
-# AI SISTĒMAS
+# ◉ NOSLĒGUMS
 
-AI tiek izmantots kā:
+◉SYNTERRA nav statisks projekts.
 
-- asistents,
-- moderators,
-- analītiķis,
-- tulkotājs,
-- pasaules simulators,
-- un infrastruktūras palīdzības sistēma.
+Tā ir:
+- dzīva arhitektūra,
+- dzīva navigācija,
+- dzīva pasaule,
+- un dzīva radīšanas vide.
 
-AI nav:
-
-- valdnieks,
-- manipulācijas mehānisms,
-- vai cilvēka aizvietotājs.
+Civilizācija attīstās kopā ar cilvēkiem.
 
 ---
 
-# EKONOMIKA
-
-◉SYNTERRA ekonomika balstās uz:
-
-- aktivitāti,
-- ieguldījumu,
-- infrastruktūru,
-- reputāciju,
-- sadarbību,
-- un utility principiem.
-
-Mērķis nav:
-
-- spekulatīvs kazino,
-- bezgalīga inflācija,
-- manipulācija,
-- vai mākslīgs deficīts.
-
-Ekonomika eksistē, lai:
-
-- uzturētu pasauli,
-- attīstītu infrastruktūru,
-- un radītu vērtību.
-
----
-
-# KULTŪRA
-
-Kultūra ir civilizācijas dvēsele.
-
-Bez kultūras:
-
-- tehnoloģijas kļūst aukstas,
-- sistēmas kļūst tukšas,
-- un pasaule zaudē nozīmi.
-
-◉SYNTERRA atbalsta:
-
-- mūziku,
-- mākslu,
-- simbolus,
-- arhitektūru,
-- stāstus,
-- digitālās ciltis,
-- un radošo brīvību.
-
----
-
-# PASAULE
-
-◉SYNTERRA pasaule var ietvert:
-
-- pilsētas,
-- organizācijas,
-- ekonomikas zonas,
-- AI sistēmas,
-- NPC,
-- infrastruktūru,
-- sandbox pasaules,
-- un dzīvu civilizācijas vidi.
-
-Pasaule kļūst par:
-
-- ekosistēmu,
-- nevis tikai spēles karti.
-
----
-
-# ORGANIZĀCIJAS
-
-Cilvēki var veidot:
-
-- organizācijas,
-- kopienas,
-- guildes,
-- pētniecības centrus,
-- uzņēmumus,
-- un digitālās civilizācijas struktūras.
-
-Civilizācija kļūst decentralizēta.
-
----
-
-# IZGLĪTĪBA
-
-Zināšanas ir viens no civilizācijas pamatiem.
-
-◉SYNTERRA atbalsta:
-
-- AI izglītību,
-- mentorus,
-- pētniecību,
-- simulācijas,
-- un praktisku attīstību.
-
-Mācīšanās kļūst par nepārtrauktu procesu.
-
----
-
-# VESELĪBA
-
-Civilizācija nevar eksistēt bez:
-
-- fiziskās veselības,
-- psiholoģiskās stabilitātes,
-- un dzīves kvalitātes.
-
-Cilvēks nav resurss.
-
-Cilvēks ir dzīvība.
-
----
-
-# DROŠĪBA
-
-Drošības mērķis nav kontrole.
-
-Drošības mērķis ir:
-
-- uzturēt stabilitāti,
-- aizsargāt infrastruktūru,
-- novērst manipulāciju,
-- un saglabāt uzticību.
-
----
-
-# GATEWAY
-
-Gateway ir ieeja civilizācijā.
-
-Tas nav tikai login logs.
-
-Tas ir:
-
-- pirmais kontakts,
-- pirmā identitāte,
-- pirmā AI mijiedarbība,
-- un pirmais solis pasaulē.
-
----
-
-# CIVILIZĀCIJAS ATMIŅA
-
-Pasaule atceras:
-
-- notikumus,
-- cilvēkus,
-- organizācijas,
-- kultūru,
-- ekonomiku,
-- un civilizācijas attīstību.
-
-Bez atmiņas civilizācija pazūd.
-
----
-
-# MVP
-
-Pirmais dzīvais prototips var ietvert:
-
-- profilus,
-- reputāciju,
-- čatu,
-- AI asistentu,
-- kopienas,
-- ekonomikas loģiku,
-- un dzīvu komunikācijas vidi.
-
-MVP nav gala produkts.
-
-Tas ir:
-
-- pirmais dzīvais eksperiments.
-
----
-
-# ILGTERMIŅA VĪZIJA
-
-◉SYNTERRA ilgtermiņa mērķis ir:
-
-- dzīva digitālā civilizācija,
-- AI un cilvēku sadarbība,
-- decentralizēta infrastruktūra,
-- kultūras evolūcija,
-- un jauna tipa digitālā sabiedrība.
-
----
-
-# ATTĪSTĪBAS PIEEJA
-
-◉SYNTERRA tiek attīstīta:
-
-- soli pa solim,
-- caur analīzi,
-- eksperimentiem,
-- kopienu,
-- open-source attīstību,
-- un dzīvu pieredzi.
-
----
-
-# NOSLĒGUMS
-
-Civilizācijas netiek būvētas tikai ar tehnoloģijām.
-
-Tās tiek būvētas ar:
-
-- cilvēkiem,
-- uzticību,
-- kultūru,
-- komunikāciju,
-- atbildību,
-- un kopīgu redzējumu.
-
-◉SYNTERRA ir mēģinājums radīt dzīvu digitālu civilizāciju.
-
----
+<div align="center">
 
 # ◉
 
-Lai top.
+## Lai top.
+
+</div>
