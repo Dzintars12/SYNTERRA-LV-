@@ -11,7 +11,7 @@ Platforma balstās uz:
 - apakšblokiem,
 - kopienām,
 - AI atbalsta sistēmām,
-- un eksperimentu telpām.
+- un strukturētām ideju telpām.
 
 ---
 
@@ -38,12 +38,45 @@ SYNTERRA
 
 SYNTERRA satur centrālo Zero Bloku.
 
-Tas paredzēts:
+Zero Bloks nav pagaidu bloks un nav viena projekta telpa.
 
-- jaunām idejām,
-- eksperimentiem,
-- prototipiem,
-- un jauniem virzieniem.
+Zero Bloks ir pastāvīgi vārti jaunām idejām.
+
+Tā mērķis ir:
+
+- jaunas idejas,
+- eksperimentāli koncepti,
+- prototipu sistēmas,
+- un jauni virzieni.
+
+Jauna ideja var ieiet Zero Blokā, iegūt struktūru, nosaukumu, radītājus un vēlāk kļūt par neatkarīgu bloku vai pilnīgi jaunu virzienu.
+
+Piemērs:
+
+```text
+Jauna Ideja
+→ Zero Bloks
+→ Radītāju Sadarbība
+→ Strukturēta Attīstība
+→ Neatkarīgs Bloks
+```
+
+Kad no Zero Bloka rodas jauns bloks:
+
+- jaunais bloks kļūst neatkarīgs,
+- Zero Bloks paliek atvērts,
+- un citi lietotāji var turpināt pievienot jaunas idejas.
+
+Zero Bloku nevar pastāvīgi aizņemt.
+
+Tas nepārtraukti eksistē kā:
+
+- ideju vārti,
+- inovāciju ieejas punkts,
+- radītāju inkubācijas telpa,
+- un nākotnes struktūru avots.
+
+Papildus:
 
 Katram galvenajam virzienam var būt arī savs lokālais Zero Bloks.
 
@@ -57,7 +90,16 @@ FINANSES
 └── ZERO BLOKS
 ```
 
-Tas ļauj attīstīt jaunas idejas esošajos virzienos.
+Tas ļauj attīstīt jaunas idejas jau esošajos virzienos.
+
+Tas uztur arhitektūru:
+
+- vienkāršu,
+- mērogojamu,
+- elastīgu,
+- un strukturāli skaidru.
+
+Mērķis ir strukturēta attīstība.
 
 ---
 
