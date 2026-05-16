@@ -2,73 +2,68 @@
 
 ## Pamatstruktūra
 
-### Pārskats
-
-SYNTERRA tiek veidota kā modulāra digitālā ekosistēma ar fraktālu arhitektūru.
+SYNTERRA tiek veidota kā modulāra digitāla sistēma ar fraktālu arhitektūru.
 
 Platforma balstās uz:
 
 - navigācijas virzieniem,
 - blokiem,
 - apakšblokiem,
-- radītāju ekosistēmām,
-- un AI atbalstītām sadarbības sistēmām.
+- kopienām,
+- AI atbalsta sistēmām,
+- un eksperimentu telpām.
 
 ---
 
-## Kodola Struktūra
-
-Galvenā platforma darbojas kā centrālais arhitektūras slānis.
-
-Visas sistēmas un bloki eksistē šīs struktūras iekšienē.
-
-Kodols definē:
-
-- navigācijas principus,
-- strukturālos noteikumus,
-- mijiedarbības loģiku,
-- mērogošanas principus,
-- un ilgtermiņa stabilitāti.
-
----
-
-## Fraktālā Arhitektūra
-
-Arhitektūra tiek veidota kā fraktāla struktūra.
-
-Bloki var saturēt:
-
-- apakšblokus,
-- moduļus,
-- radītāju sistēmas,
-- kopienas,
-- un specializētas infrastruktūras.
-
-Piemērs:
+## Fraktālā Struktūra
 
 ```text
 SYNTERRA
 │
+├── ZERO BLOKS
+│
 ├── Navigācijas Virzieni
+│   ├── ZERO BLOKS
+│
 ├── Bloki
 │   ├── Apakšbloki
 │   └── Moduļi
+│
 └── Kopējā Infrastruktūra
 ```
 
-Tas ļauj:
+---
 
-- modulāru attīstību,
-- decentralizētu paplašināšanos,
-- un strukturālu skaidrību.
+## Zero Bloka Princips
+
+SYNTERRA satur centrālo Zero Bloku.
+
+Tas paredzēts:
+
+- jaunām idejām,
+- eksperimentiem,
+- prototipiem,
+- un jauniem virzieniem.
+
+Katram galvenajam virzienam var būt arī savs lokālais Zero Bloks.
+
+Piemērs:
+
+```text
+FINANSES
+│
+├── Trading
+├── Investing
+└── ZERO BLOKS
+```
+
+Tas ļauj attīstīt jaunas idejas esošajos virzienos.
 
 ---
 
 ## Navigācijas Slānis
 
-Platforma nodrošina strukturētu navigāciju.
-
-Piemēra virzieni:
+Galvenie virzieni:
 
 - Finanses
 - Māksla
@@ -81,59 +76,21 @@ Piemēra virzieni:
 Katrs virziens var saturēt:
 
 - diskusiju telpas,
-- radītāju kopienas,
-- AI sistēmas,
+- kopienas,
 - projektus,
-- un sadarbības slāņus.
+- AI sistēmas,
+- un lokālos Zero Blokus.
 
 ---
 
-## Interešu Ekosistēmas
+## Cilvēks un AI
 
-Lietotāji var organizēties ap kopīgām interesēm.
+Cilvēks paliek galvenais radītājs.
 
-Tas atbalsta:
-
-- zināšanu apmaiņu,
-- sadarbību,
-- mentoringu,
-- projektu veidošanu,
-- un ilgtermiņa līdzdalību.
-
----
-
-## Atvērtā Radīšana / Aizsargāts Kodols
-
-Platforma atbalsta:
-
-- atvērtu radīšanu,
-- modulāru attīstību,
-- eksperimentus,
-- un radītāju ekosistēmas.
-
-Tomēr centrālais arhitektūras slānis paliek aizsargāts, lai saglabātu sistēmas stabilitāti.
-
----
-
-## Cilvēka + AI Struktūra
-
-Cilvēks paliek galvenais radītājs un lēmumu pieņēmējs.
-
-AI sistēmas palīdz:
+AI palīdz:
 
 - organizēt,
 - analizēt,
 - tulkot,
 - moderēt,
 - un atbalstīt attīstību.
-
----
-
-## Ilgtermiņa Virziens
-
-SYNTERRA ilgtermiņa virziens ir nodrošināt:
-
-- mērogojamu sadarbību,
-- strukturētas zināšanu sistēmas,
-- modulāras ekosistēmas,
-- un ilgtermiņa digitālo infrastruktūru.
